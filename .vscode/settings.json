@@ -1,0 +1,5 @@
+{
+    "css.format.maxPreserveNewLines": null,
+    "less.format.preserveNewLines": true,
+    "scss.format.preserveNewLines": true
+}
